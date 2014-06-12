@@ -1,0 +1,7 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"GMOD: Global Offensive"
+	"maps"		"^dm_"
+	"menusystem"	"1"
+}
